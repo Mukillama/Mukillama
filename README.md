@@ -1,7 +1,7 @@
 
 Just a common llama that codes with no drama
 
-![](https://raw.githubusercontent.com/llamaMukis/llamaMukis/main/IMG_1107.PNG)
+![](https://raw.githubusercontent.com/Mukillama/Mukillama/main/IMG_1107.PNG)
 
 <div>
 <h2> 

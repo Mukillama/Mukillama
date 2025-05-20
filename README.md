@@ -19,10 +19,11 @@ const MUKIS = {
     askMeAbout: ["web dev", "tech", "videogames","crossfit","boxing","design"],
     technologies: {
         frontEnd: {
-            js: ["angular", "react", "ES6"],
-            css: ["bootstrap","scss"]
+            js: ['ES6'],
+            css: ['bootstrap','scss','tailwind'],
+            frameworks:['angular'],
+            libraries:['react'],
         },
-        backEnd: ["java 8","springBoot"],
         databases: ["mySql", "oracleSQL"],
     }
 };
@@ -40,7 +41,6 @@ const MUKIS = {
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
